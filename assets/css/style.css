@@ -10044,7 +10044,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
 }
 
 .btIconWidget.widget_bt_button_widget .bt_button_widget.bt_button_widget_accent:before {
-    background: #e94d65;
+    background: #ff5a08;
     -webkit-box-shadow: 0 -2px 0 0 rgba(24, 24, 24, .15) inset;
     box-shadow: 0 -2px 0 0 rgba(24, 24, 24, .15) inset;
 }
@@ -21104,7 +21104,7 @@ a.btAccentIconWidget.btIconWidget:hover {
 
 .bt_bb_headline b {
     font-weight: inherit;
-    color: #e94d65;
+    color: #ff5a08;
 }
 
 .bt_bb_headline u {
@@ -22422,7 +22422,7 @@ section.btPageHeadline .bt_bb_column:not(.bt_bb_align_center) .bt_bb_headline .b
 .bt_bb_service .bt_bb_service_content .bt_bb_service_content_title u {
     font-weight: inherit;
     text-decoration: none;
-    color: #e94d65;
+    color: #ff5a08;
 }
 
 .bt_bb_service .bt_bb_service_content .bt_bb_service_content_title em {
@@ -27811,7 +27811,7 @@ button.mfp-arrow.mfp-arrow-right:before {
 }
 
 .bt_bb_latest_posts .bt_bb_latest_posts_item_content .bt_bb_latest_posts_item_title a {
-    color: #e94d65;
+    color: #ff5a08;
     line-height: inherit;
     display: inline-block;
 }
@@ -29797,7 +29797,7 @@ button.mfp-arrow.mfp-arrow-right:before {
 
 .bt_bb_service_image .bt_bb_service_image_content .bt_bb_service_image_content_title h3 b {
     font-weight: inherit;
-    color: #e94d65;
+    color: #ff5a08;
 }
 
 .bt_bb_service_image .bt_bb_service_image_content .bt_bb_service_image_content_title h3 u {
