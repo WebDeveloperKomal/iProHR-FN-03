@@ -21110,7 +21110,7 @@ a.btAccentIconWidget.btIconWidget:hover {
 .bt_bb_headline u {
     font-weight: inherit;
     text-decoration: none;
-    color: #1b4962;
+    color: #007bff;
 }
 
 .bt_bb_headline em {
@@ -22422,7 +22422,7 @@ section.btPageHeadline .bt_bb_column:not(.bt_bb_align_center) .bt_bb_headline .b
 .bt_bb_service .bt_bb_service_content .bt_bb_service_content_title u {
     font-weight: inherit;
     text-decoration: none;
-    color: #1b4962;
+    color: #e94d65;
 }
 
 .bt_bb_service .bt_bb_service_content .bt_bb_service_content_title em {
@@ -27849,7 +27849,7 @@ button.mfp-arrow.mfp-arrow-right:before {
     display: -ms-inline-flexbox;
     display: -webkit-inline-flex;
     display: inline-flex;
-    color: #e94d65;
+    color: #007bff;
 }
 
 .bt_bb_latest_posts .bt_bb_latest_posts_item_content .bt_bb_latest_posts_item_read_more a:after {
@@ -29803,7 +29803,7 @@ button.mfp-arrow.mfp-arrow-right:before {
 .bt_bb_service_image .bt_bb_service_image_content .bt_bb_service_image_content_title h3 u {
     font-weight: inherit;
     text-decoration: none;
-    color: #1b4962;
+    color: #007bff;
 }
 
 .bt_bb_service_image .bt_bb_service_image_content .bt_bb_service_image_content_title h3 em {
