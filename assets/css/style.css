@@ -629,12 +629,12 @@ a {
 }
 
 .btContent a {
-    color: #e94d65;
+    color: #ff5a08;
 }
 
 a:hover {
     text-decoration: none;
-    color: #e94d65;
+    color: #ff5a08;
 }
 
 .btContent a:hover {
@@ -642,7 +642,7 @@ a:hover {
 }
 
 .btText a {
-    color: #e94d65;
+    color: #ff5a08;
 }
 
 .btText a:hover {
@@ -11373,7 +11373,7 @@ a.btAccentIconWidget.btIconWidget:hover {
 .bt_bb_dash_top_bottom.bt_bb_headline .bt_bb_headline_superheadline:after {
     content: ' ';
     width: 2.1875rem;
-    border-top: 2px solid #e94d65;
+    border-top: 2px solid #ff5a08;
     margin-top: -1px;
     margin-bottom: 0;
     display: block;
@@ -24267,7 +24267,7 @@ button.slick-arrow:hover {
 }
 
 .bt_bb_dots_style_accent_dot .slick-dots li:after {
-    background: #e94d65;
+    background: #ff5a08;
 }
 
 .bt_bb_dots_style_alternate_dot .slick-dots li:after {
@@ -33704,7 +33704,7 @@ div.woocommerce input[type="submit"],
 div.woocommerce :not(.widget_product_search) button[type="submit"],
 div.woocommerce input.button {
     font-size: 1em;
-    background: #e94d65;
+    background: #ff5a08;
     -webkit-box-shadow: 0 -2px 0 0 rgba(24, 24, 24, .2) inset;
     box-shadow: 0 -2px 0 0 rgba(24, 24, 24, .2) inset;
     color: #fff;
