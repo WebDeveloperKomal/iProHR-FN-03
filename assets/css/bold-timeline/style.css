@@ -2405,7 +2405,7 @@ TODO: Zavrsiti ovaj deo (problem sa overflow: hidden; na zaobljenim itemima)
 
 .bold_timeline_container.bold_timeline_container_item_icon_style_filled .bold_timeline_item_override_icon_style_inherit.bold_timeline_item .bold_timeline_item_icon,
 .bold_timeline_container .bold_timeline_item_override_icon_style_filled.bold_timeline_item .bold_timeline_item_icon {
-    background: var(--boldthemes-default-icon-color);
+    background: #ff6561;
     -webkit-box-shadow: none;
     box-shadow: none;
     color: white;
@@ -3487,8 +3487,8 @@ TODO: Zavrsiti ovaj deo (problem sa overflow: hidden; na zaobljenim itemima)
 .bold_timeline_container .bold_timeline_item_button_style_outline.bold_timeline_item_button .bold_timeline_item_button_inner {
     border-width: 2px;
     border-style: solid;
-    border-color: var(--default-button-color);
-    color: var(--default-button-color);
+    border-color: #ff6561;
+    color: #ff6561;
     background: transparent;
     -webkit-box-shadow: none;
     box-shadow: none;
