@@ -847,8 +847,8 @@ blockquote:after {
 }
 
 blockquote:before {
-    content: '\e900';
-    font-family: Avantage;
+    /* content: '\e900';
+    font-family: Avantage; */
     display: block;
     font-size: 6em;
     line-height: 1;
