@@ -1010,19 +1010,39 @@ body {
 }
 
 .form-content .other-links a i[class*=fa-facebook] {
-    background-color: #3b5998;
+    background-color: #ff6661;
+}
+
+.form-content .other-links a i[class*=fa-facebook]:hover {
+    background-color: white;
+    color: #007bff;
 }
 
 .form-content .other-links a i[class*=fa-youtube] {
-    background-color: #bb0000;
+    background-color: #ff6661;
+}
+
+.form-content .other-links a i[class*=fa-youtube]:hover {
+    background-color: white;
+    color: #007bff;
 }
 
 .form-content .other-links a i[class*=fa-google] {
-    background-color: #dd4b39;
+    background-color: #ff6661;
+}
+
+.form-content .other-links a i[class*=fa-google]:hover {
+    background-color: white;
+    color: #007bff;
 }
 
 .form-content .other-links a i[class*=fa-linkedin] {
-    background-color: #007bb6;
+    background-color: #ff6661;
+}
+
+.form-content .other-links a i[class*=fa-linkedin]:hover {
+    background-color: white;
+    color: #007bff;
 }
 
 .form-content .other-links a i[class*=fa-instagram] {
