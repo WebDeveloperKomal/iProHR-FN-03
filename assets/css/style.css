@@ -2280,7 +2280,7 @@ body.btBelowMenu.btMenuBelowLogo .btPageHeadline .bt_bb_port {
 .btMenuHorizontal .menuPort nav>ul>li.current-menu-ancestor>a:after,
 .btMenuHorizontal .menuPort nav>ul>li.current-menu-item>a:after {
     content: ' ';
-    display: block;
+    display: none;
     position: absolute;
     z-index: 5;
     left: -15px;
