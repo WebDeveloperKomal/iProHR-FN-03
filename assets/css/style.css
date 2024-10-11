@@ -2027,10 +2027,12 @@ body.btBelowMenu.btMenuBelowLogo .btPageHeadline .bt_bb_port {
     height: 100px;
     width: auto;
     display: block;
+    margin-top: 18px;
 }
 
 .btMenuVertical .btLogoArea .logo img {
     height: 84px;
+    margin-top: 3px;
 }
 
 .btMenuCenter .btLogoArea .logo img {
@@ -2285,7 +2287,7 @@ body.btBelowMenu.btMenuBelowLogo .btPageHeadline .bt_bb_port {
     width: 10px;
     pointer-events: none;
     height: 2px;
-    background-color: #faae00;
+    /* background-color: #faae00; */
     top: 50%;
     margin-top: -1px;
 }
@@ -3872,6 +3874,7 @@ body.btBelowMenu.btMenuHorizontal.btAlternateGradientHeader .mainHeader.gutter {
     height: -webkit-calc(140px*0.5);
     height: -moz-calc(140px*0.5);
     height: calc(140px*0.5);
+    margin-top: 3px;
 }
 
 .btStickyHeaderActive.btMenuHorizontal .mainHeader .btLogoArea .btTextLogo {
@@ -23892,7 +23895,7 @@ button.slick-arrow.slick-prev {
 }
 
 button.slick-arrow.slick-prev:before {
-    content: "\ea7c";
+    /* content: "\ea7c"; */
     -webkit-transform: translateX(-10%);
     -moz-transform: translateX(-10%);
     -ms-transform: translateX(-10%);
