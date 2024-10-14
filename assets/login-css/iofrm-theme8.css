@@ -15,11 +15,11 @@
     1 - General Styles
 ------------------------------------*/
 body {
-    background-color: #036;
+    background-color: #0060d3;
 }
 
 .form-body {
-    background-color: #036;
+    background-color: #0060d3;
 }
 
 .website-logo {
@@ -120,7 +120,7 @@ body {
 }
 
 .form-content {
-    background-color: #036;
+    background-color: #0060d3;
 }
 
 .form-content .form-group {
@@ -253,12 +253,12 @@ body {
 
 .form-content input[type=checkbox]:not(:checked)+label:after,
 .form-content input[type=checkbox]:checked+label:after {
-    color: #036;
+    color: #0060d3;
 }
 
 .form-content input[type=radio]:not(:checked)+label:after,
 .form-content input[type=radio]:checked+label:after {
-    background-color: #036;
+    background-color: #0060d3;
 }
 
 .form-content .custom-options input[type=checkbox]:not(:checked)+label,
@@ -567,7 +567,7 @@ body {
 
 .form-body.without-side .form-content .form-button .ibtn {
     background-color: #fff;
-    color: #036;
+    color: #0060d3;
     -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0.16);
     box-shadow: 0 0 0 rgba(0, 0, 0, 0.16);
     border: 0;
@@ -576,7 +576,7 @@ body {
 .form-body.without-side .form-content .form-button .ibtn:hover,
 .form-body.without-side .form-content .form-button .ibtn:focus {
     background-color: #fff;
-    color: #036;
+    color: #0060d3;
     -webkit-box-shadow: 0 5px 6px rgba(0, 0, 0, 0.16);
     box-shadow: 0 5px 6px rgba(0, 0, 0, 0.16);
     border: 0;
