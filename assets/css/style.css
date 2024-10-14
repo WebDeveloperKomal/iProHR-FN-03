@@ -9931,6 +9931,7 @@ body:not(.btNoDashInSidebar) .btTopBox>h4:after {
     z-index: 2;
     font-family: "Sarabun", Arial, Helvetica, sans-serif;
     font-weight: 700;
+    color: #0060d3;
 }
 
 .btIconWidget.widget_bt_button_widget .bt_button_widget .bt_bb_icon_holder {
@@ -21113,7 +21114,7 @@ a.btAccentIconWidget.btIconWidget:hover {
 .bt_bb_headline u {
     font-weight: inherit;
     text-decoration: none;
-    color: #036;
+    color: #0060d3;
 }
 
 .bt_bb_headline em {
@@ -27852,7 +27853,7 @@ button.mfp-arrow.mfp-arrow-right:before {
     display: -ms-inline-flexbox;
     display: -webkit-inline-flex;
     display: inline-flex;
-    color: #036;
+    color: #0060d3;
 }
 
 .bt_bb_latest_posts .bt_bb_latest_posts_item_content .bt_bb_latest_posts_item_read_more a:after {
@@ -29806,7 +29807,7 @@ button.mfp-arrow.mfp-arrow-right:before {
 .bt_bb_service_image .bt_bb_service_image_content .bt_bb_service_image_content_title h3 u {
     font-weight: inherit;
     text-decoration: none;
-    color: #036;
+    color: #0060d3;
 }
 
 .bt_bb_service_image .bt_bb_service_image_content .bt_bb_service_image_content_title h3 em {
