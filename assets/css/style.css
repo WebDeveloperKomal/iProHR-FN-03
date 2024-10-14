@@ -8032,7 +8032,7 @@ body:not(.woocommerce) .bt-comments-box .form-submit {
     background: #faae00;
     margin-top: .5em;
     border: 0;
-    color: #fff;
+    color: #0060d3;
     -webkit-box-shadow: 0 -2px 0 0 rgba(24, 24, 24, .2) inset;
     box-shadow: 0 -2px 0 0 rgba(24, 24, 24, .2) inset;
     font-family: "Sarabun", Arial, Helvetica, sans-serif;
@@ -24996,7 +24996,7 @@ button.slick-arrow:hover {
 
 /* Price tables */
 .bt_bb_price_list {
-    padding: 0 1.875em 1.875em;
+    padding: 0 0.875em 2.875em;
     border: 0;
 }
 
