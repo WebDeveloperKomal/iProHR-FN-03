@@ -25690,7 +25690,7 @@ ul.bt_bb_tabs_header:after {
 
 .bt_bb_accordion.bt_bb_style_simple .bt_bb_accordion_item .bt_bb_accordion_item_title:hover,
 .bt_bb_accordion.bt_bb_style_simple .bt_bb_accordion_item.on .bt_bb_accordion_item_title {
-    color: var(--accordion-secondary-color, white);
+    color: black;
     border-color: var(--accordion-secondary-color, white);
 }
 
