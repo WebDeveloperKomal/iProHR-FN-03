@@ -23877,6 +23877,7 @@ button.slick-arrow.slick-next:before {
     -moz-transform: translateX(10%);
     -ms-transform: translateX(10%);
     transform: translateX(10%);
+    display: none;
 }
 
 .rtl button.slick-arrow.slick-next {
@@ -23902,6 +23903,7 @@ button.slick-arrow.slick-prev:before {
     -moz-transform: translateX(-10%);
     -ms-transform: translateX(-10%);
     transform: translateX(-10%);
+    display: none;
 }
 
 .rtl button.slick-arrow.slick-prev {
@@ -23915,6 +23917,7 @@ button.slick-arrow.slick-prev:before {
     -moz-transform: translateX(10%);
     -ms-transform: translateX(10%);
     transform: translateX(10%);
+    display: none;
 }
 
 button.slick-arrow:hover {
