@@ -7028,10 +7028,36 @@
             </div>
             <!-- / inner header for scrolling -->
         </header>
+        <!-- 4 slider image & text css apply -->
+        <style>
+            @media (max-width: 768px) {
+                .text1 {
+                    margin-left: 107px;
+                }
+
+                .text2 {
+                    margin-left: 107px;
+                }
+
+                .bt_bb_headline .bt_bb_headline_content span {
+                    display: block;
+                    font-size: 44px;
+                }
+
+                .bt_bb_size_large.bt_bb_headline .bt_bb_headline_superheadline {
+                    font-size: 1.125rem;
+                    color: white;
+                }
+
+                .bt_bb_size_large.bt_bb_headline.bt_bb_subheadline .bt_bb_headline_subheadline {
+                    font-size: 1.125rem;
+                    color: black;
+                }
+            }
+        </style>
         <!-- /.mainHeader -->
         <div class="btContentWrap btClear">
             <div class="btContentHolder">
-
                 <div class="btContent">
                     <div class="bt_bb_wrapper" data-templates-time="">
                         <section id="bt_bb_section66fbc26c26659"
@@ -7120,19 +7146,19 @@
                                                                         class="bt_bb_content_slider_item_content content">
                                                                         <div class=" bt_bb_row_inner"
                                                                             data-bt-override-class="{}">
-                                                                            <div class="bt_bb_row_inner_holder">
-                                                                                <div class="bt_bb_column_inner col-xxl-4 col-xl-4 bt_bb_align_left bt_bb_vertical_align_top"
+                                                                            <div class="bt_bb_row_inner_holder text1">
+                                                                                <div class="bt_bb_column_inner col-xxl-4 col-xl-4 bt_bb_align_left bt_bb_vertical_align_top text1"
                                                                                     data-width="4"
                                                                                     data-bt-override-class="{}">
                                                                                     <div
-                                                                                        class="bt_bb_column_inner_content">
+                                                                                        class="bt_bb_column_inner_content text1">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="bt_bb_column_inner col-xxl-8 col-xl-8 bt_bb_align_left bt_bb_vertical_align_top bt_bb_padding_normal bt_bb_animation_fade_in bt_bb_animation_move_up animate"
                                                                                     data-width="8"
                                                                                     data-bt-override-class="{}">
                                                                                     <div
-                                                                                        class="bt_bb_column_inner_content">
+                                                                                        class="bt_bb_column_inner_content text1">
                                                                                         <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_extra_large"
                                                                                             data-bt-override-class="null">
                                                                                         </div>
@@ -7272,19 +7298,19 @@
                                                                         class="bt_bb_content_slider_item_content content">
                                                                         <div class=" bt_bb_row_inner"
                                                                             data-bt-override-class="{}">
-                                                                            <div class="bt_bb_row_inner_holder">
-                                                                                <div class="bt_bb_column_inner col-xxl-4 col-xl-4 bt_bb_align_left bt_bb_vertical_align_top"
+                                                                            <div class="bt_bb_row_inner_holder text2">
+                                                                                <div class="bt_bb_column_inner col-xxl-4 col-xl-4 bt_bb_align_left bt_bb_vertical_align_top text2"
                                                                                     data-width="4"
                                                                                     data-bt-override-class="{}">
                                                                                     <div
-                                                                                        class="bt_bb_column_inner_content">
+                                                                                        class="bt_bb_column_inner_content text2">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="bt_bb_column_inner col-xxl-8 col-xl-8 bt_bb_align_left bt_bb_vertical_align_top bt_bb_padding_normal bt_bb_animation_fade_in bt_bb_animation_move_up animate"
                                                                                     data-width="8"
                                                                                     data-bt-override-class="{}">
                                                                                     <div
-                                                                                        class="bt_bb_column_inner_content">
+                                                                                        class="bt_bb_column_inner_content text2">
                                                                                         <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_extra_large"
                                                                                             data-bt-override-class="null">
                                                                                         </div>
@@ -7904,14 +7930,13 @@
                             style="background-position:left top;background-size:auto;" data-bt-override-class="null">
                             <div class="bt_bb_background_image_holder_wrapper">
                                 <div class="bt_bb_background_image_holder btLazyLoadBackground"
-                                    data-background_image_src="assets/images/Home/bgn-services-curve.png"
-                                    data-parallax-zoom-start="1" data-parallax-zoom-end="1" data-parallax-blur-start="0"
-                                    data-parallax-blur-end="0" data-parallax-opacity-start="1"
-                                    data-parallax-opacity-end="1">
+                                    data-background_image_src="#" data-parallax-zoom-start="1"
+                                    data-parallax-zoom-end="1" data-parallax-blur-start="0" data-parallax-blur-end="0"
+                                    data-parallax-opacity-start="1" data-parallax-opacity-end="1">
                                     <!-- style=" background-image: url(&#039;https://avantage.bold-themes.com/financial/wp-content/plugins/bold-page-builder/img/blank.gif&#039;);" -->
                                 </div>
                             </div>
-                            <div class="bt_bb_port">
+                            <div class="bt_bb_port" style="padding-top: 4px;">
                                 <div class="bt_bb_cell">
                                     <div class="bt_bb_cell_inner">
                                         <div class="bt_bb_row " data-bt-override-class="{}">
@@ -7923,7 +7948,8 @@
                                                             class="bt_bb_headline bt_bb_dash_top bt_bb_superheadline bt_bb_superheadline_outside bt_bb_subheadline bt_bb_size_large bt_bb_align_inherit"
                                                             data-bt-override-class="{}">
                                                             <div class="bt_bb_headline_superheadline_outside"><span
-                                                                    class="bt_bb_headline_superheadline">All
+                                                                    class="bt_bb_headline_superheadline"
+                                                                    style="color: black;">All
                                                                     Features</span></div>
                                                             <h3 class="bt_bb_headline_tag"><span
                                                                     class="bt_bb_headline_content"><span><b>Powerful
@@ -11220,7 +11246,6 @@
 
     </div>
     <!-- /pageWrap -->
-
 
     <!-- BEGIN recaptcha, injected by plugin wp-recaptcha-integration  -->
     <script type="text/javascript">

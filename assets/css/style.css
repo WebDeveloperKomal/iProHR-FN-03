@@ -14681,6 +14681,7 @@ a.btAccentIconWidget.btIconWidget:hover {
     max-width: -webkit-calc(1200px / 12 * 6);
     max-width: -moz-calc(1200px / 12 * 6);
     max-width: calc(1200px / 12 * 6);
+    padding-top: 34px;
 }
 
 .bt_bb_section.bt_bb_layout_boxed_1200.bt_bb_section_show_boxed_content .bt_bb_row .bt_bb_column:last-child[data-width="5"] {
@@ -35974,12 +35975,14 @@ button.pswp__button--arrow--right:before {
     .bt_bb_size_extralarge.bt_bb_headline.bt_bb_superheadline .bt_bb_headline_superheadline,
     .bt_bb_size_large.bt_bb_headline.bt_bb_superheadline .bt_bb_headline_superheadline {
         font-size: .9rem;
+        /* color: white; */
     }
 
     .bt_bb_size_huge.bt_bb_headline.bt_bb_subheadline .bt_bb_headline_subheadline,
     .bt_bb_size_extralarge.bt_bb_headline.bt_bb_subheadline .bt_bb_headline_subheadline,
     .bt_bb_size_large.bt_bb_headline.bt_bb_subheadline .bt_bb_headline_subheadline {
         font-size: .9rem;
+        /* color: white; */
     }
 
     .bt_bb_splitted_headline h1.bt_bb_size_huge,
