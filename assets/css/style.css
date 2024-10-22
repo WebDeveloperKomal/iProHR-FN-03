@@ -27823,10 +27823,11 @@ button.mfp-arrow.mfp-arrow-right:before {
     color: #faae00;
     line-height: inherit;
     display: inline-block;
+    s
 }
 
 .bt_bb_latest_posts .bt_bb_latest_posts_item_content .bt_bb_latest_posts_item_title a:hover {
-    color: currentColor;
+    color: #0060d3;
 }
 
 .bt_bb_latest_posts .bt_bb_latest_posts_item_content .bt_bb_latest_posts_item_excerpt {
