@@ -1005,10 +1005,6 @@ body {
     transition: all 0.3s ease;
 }
 
-.form-content .other-links a i[class*=fa-twitter] {
-    background-color: #00aced;
-}
-
 .form-content .other-links a i[class*=fa-facebook] {
     background-color: #faae00;
 }
@@ -1018,20 +1014,20 @@ body {
     color: #0060d3;
 }
 
+.form-content .other-links a i[class*=fa-twitter] {
+    background-color: #faae00;
+}
+
+.form-content .other-links a i[class*=fa-twitter]:hover {
+    background-color: white;
+    color: #0060d3;
+}
+
 .form-content .other-links a i[class*=fa-youtube] {
     background-color: #faae00;
 }
 
 .form-content .other-links a i[class*=fa-youtube]:hover {
-    background-color: white;
-    color: #0060d3;
-}
-
-.form-content .other-links a i[class*=fa-google] {
-    background-color: #faae00;
-}
-
-.form-content .other-links a i[class*=fa-google]:hover {
     background-color: white;
     color: #0060d3;
 }
@@ -1046,7 +1042,12 @@ body {
 }
 
 .form-content .other-links a i[class*=fa-instagram] {
-    background-color: #517fa4;
+    background-color: #faae00;
+}
+
+.form-content .other-links a i[class*=fa-instagram]:hover {
+    background-color: white;
+    color: #0060d3;
 }
 
 .form-content .other-links a i:hover,
